@@ -17,8 +17,8 @@ While there are numerous circumstances and peculiarities that help explain the d
  ![Exhibit 2](https://user-images.githubusercontent.com/13277597/120051681-6dbde480-bfd6-11eb-9735-f60bd38bd0d1.png)
 
 This notebook will demonstrate how to (roughly) construct the above per capita consumption analysis using only publicly available data. While we don't use avant garde ML algorithms (in this analysis, at least), I hope that it demonstrates what can be done.
-
-I can say confidently that this analysis forms a strategic foundation for many global consumer goods companies. Granted, when I do such things for them, we bring out much more operational detail using more proprietary datasets/views on their markets.
+ 
+For many global consumer goods companies, this type of analysis forms the basis for their global strategies. A complete view usually requires more operational and granular insight that comes from proprietary data and knowledge from within the company. This is just a first step, but one that if taken with the right partner can lead to a coherent strategy and achievable success 
 
 The full post can be found [here](https://quantumlogik.com/2021/05/28/qlc-perspectives-the-five-existential-challenges-to-global-beverages/) on Quantum Logik's website
 
