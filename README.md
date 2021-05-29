@@ -1,9 +1,9 @@
 **Headline**
-Using a strategic mindset with global level public data.
-A Python Jupyter notebook 
-World Health Organization and World Bank API extraction  
-Utilizes Bokeh for visualization
-Real world applied analysis
+- Using a strategic mindset with global level public data.
+- A Python Jupyter notebook 
+- World Health Organization and World Bank API extraction  
+- Utilizes Bokeh for visualization
+- Real world applied strategic analysis
 
 **Motivation**
 
