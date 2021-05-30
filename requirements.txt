@@ -1,0 +1,5 @@
+bokeh==2.0.2
+country-converter==0.7.3
+bokeh==2.0.2
+numpy==1.18.1
+requests==2.23.0
